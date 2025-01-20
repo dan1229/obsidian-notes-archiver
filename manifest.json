@@ -1,0 +1,9 @@
+{
+    "id": "file-archiver",
+    "name": "File Archiver",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Archive files to year/month folders",
+    "author": "Daniel Nazarian",
+    "isDesktopOnly": false
+}
