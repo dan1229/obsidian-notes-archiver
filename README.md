@@ -4,15 +4,11 @@
 
 ---
 
-> ## ⚠️ DEPRECATED — do not use or maintain
+> ## ℹ️ Note — companion repo, not actively maintained
 >
-> Note to self: **don't sink time into this repo.** It's an early, generic
-> ancestor (`file-archiver`, `YYYY-MM-DD` filenames) that **never matched my
-> actual `MM-DD-YYYY` daily notes** — it doesn't even work on my vault.
->
-> The version I actually use is a **private** successor:
-> **`dan1229/obsidian-todo-archiver`** (handles `MM-DD-YYYY`, daily *and* weekly
-> notes). Go there instead.
+> This plugin accompanies a blog post. I don't actually use it myself — my own
+> setup runs a private, customized version in "production." This is here as a
+> reference / starting point, not something I actively maintain.
 
 ---
 
