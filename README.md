@@ -4,6 +4,18 @@
 
 ---
 
+> ## ⚠️ DEPRECATED — do not use or maintain
+>
+> Note to self: **don't sink time into this repo.** It's an early, generic
+> ancestor (`file-archiver`, `YYYY-MM-DD` filenames) that **never matched my
+> actual `MM-DD-YYYY` daily notes** — it doesn't even work on my vault.
+>
+> The version I actually use is a **private** successor:
+> **`dan1229/obsidian-todo-archiver`** (handles `MM-DD-YYYY`, daily *and* weekly
+> notes). Go there instead.
+
+---
+
 A simple plugin for Obsidian that helps archive your daily notes into organized folders. Perfect for keeping your daily notes folder clean while maintaining an organized archive structure.
 
 ## Features
